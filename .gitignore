@@ -1,0 +1,7 @@
+# Env variables
+*.env
+
+#Directories 
+build/
+
+
